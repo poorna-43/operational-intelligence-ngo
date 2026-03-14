@@ -64,6 +64,6 @@ st.plotly_chart(fig3, use_container_width=True)
 
 st.subheader("NGO Decision Insights")
 
-for insight in insights_data:
-    st.info(insight)
+st.info(f"Highest Impact Program: {insights_data['highest_impact_program']}")
+st.info(f"Most Cost Efficient Program: {insights_data['most_cost_efficient_program']}")
 
