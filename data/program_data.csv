@@ -1,0 +1,11 @@
+program_id,program_name,location,category,people_helped,cost,volunteers,duration_months
+P101,Food Drive,Chennai,Hunger Relief,200,5000,10,2
+P102,Health Camp,Madurai,Healthcare,120,7000,8,1
+P103,Education Support,Salem,Education,300,6000,12,6
+P104,Women Empowerment,Coimbatore,Women Development,150,4000,7,4
+P105,Skill Training,Trichy,Employment,180,4500,9,3
+P106,Child Nutrition,Vellore,Healthcare,220,5200,11,2
+P107,Rural Education,Tirunelveli,Education,250,5800,10,5
+P108,Senior Citizen Care,Erode,Social Welfare,90,3000,6,3
+P109,Disaster Relief,Cuddalore,Emergency Response,400,10000,15,1
+P110,Digital Literacy,Thanjavur,Education,170,3500,8,4
